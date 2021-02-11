@@ -1,0 +1,31 @@
+.App{
+  padding-top: 4rem;
+  min-height: 100vh;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: repeat;
+}
+.navbar {
+  background-color: #78522b !important;
+}
+.nav-brand {
+  color: #141207;
+}
+.info__block {
+  background-color: #fff;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  color: #111;
+}
+.info__block span{
+  margin-right: 10px;
+  border-radius: 10%;
+}
+.logo-app img{
+  width: 30px;
+  height: 30px;
+}
+.info__block{
+  background-color:  #b3895f;
+}
